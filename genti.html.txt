@@ -1,0 +1,12 @@
+<!Doctype html>
+<head>
+<meta charset="utf-8"
+<html lang="en">
+<title>Demo</title>
+<link rel="stylesheet" href="index.css">
+</head>
+<body>
+<h1>demo git</h1>
+<a href="next.html">next page</a>
+</body>
+</html>
